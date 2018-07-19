@@ -1,0 +1,6 @@
+[submodule "active-directory-javascript-graphapi-v2"]
+	path = active-directory-javascript-graphapi-v2
+	url = https://github.com/Azure-Samples/active-directory-javascript-graphapi-v2
+[submodule "active-directory-dotnet-webapp-openidconnect"]
+	path = active-directory-dotnet-webapp-openidconnect
+	url = https://github.com/Azure-Samples/active-directory-dotnet-webapp-openidconnect
